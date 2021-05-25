@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="21" failures="0" name="runner.TestRunner" time="0.02" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.10+8-LTS-162"/>
+    <property name="sun.boot.library.path" value="D:\jdk11\jdk-11.0.10\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\PR20170544\IdeaProjects\ShopizerCucumber"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\PR20170544\IdeaProjects\ShopizerCucumber"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.10+8-LTS-162"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\PR2017~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="bsID" value="13c8f2d9-20f0-487c-9806-553921ec8de6"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\jdk11\jdk-11.0.10\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3/bin;D:\jdk11\jdk-11.0.10/bin;D:\jdk11\jdk-11.0.10/bin;E:\db_home\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Webex\Webex\Applications;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;E:\;C:\Program Files\Amazon\SessionManagerPlugin\bin\;D:\java\bin;C:\Users\PR20170544\AppData\Local\Microsoft\WindowsApps;C:\Users\PR20170544\AppData\Local\Programs\Git\cmd;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\wgetNew\wget-1.21.1-win64;D:\unzip-5.51-1-bin\bin;C:\Program Files\Amazon\SessionManagerPlugin\bin;;."/>
+    <property name="maven.conf" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\PR20170544"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="PR20170544"/>
+    <property name="java.class.path" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -s D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml -DbsID=13c8f2d9-20f0-487c-9806-553921ec8de6 test"/>
+    <property name="java.home" value="D:\jdk11\jdk-11.0.10"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.10"/>
+    <property name="sl.httpMaxAttempts" value="5"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Scenario: Register as a authenticated user" name="Given user is on Register Page" time="0.01"/>
+  <testcase classname="Scenario: Register as a authenticated user" name="When user navigates to Registration Page" time="0"/>
+  <testcase classname="Scenario: Register as a authenticated user" name="And user enters firstName and lastName" time="0"/>
+  <testcase classname="Scenario: Register as a authenticated user" name="And user select the country" time="0"/>
+  <testcase classname="Scenario: Register as a authenticated user" name="And user enter state, Email address , Password and Repeat password" time="0"/>
+  <testcase classname="Scenario: Register as a authenticated user" name="And user clicks on Create an account" time="0"/>
+  <testcase classname="Scenario: Register as a authenticated user" name="Then New account is created and user verify account Page" time="0"/>
+  <testcase classname="Scenario: Register as a authenticated user" name="Scenario: Register as a authenticated user" time="0.002"/>
+  <testcase classname="Scenario: Login as a authenticated user" name="Given user is on Login page" time="0"/>
+  <testcase classname="Scenario: Login as a authenticated user" name="When user enters Login ID  and Pasword" time="0"/>
+  <testcase classname="Scenario: Login as a authenticated user" name="And user click on sign in button" time="0"/>
+  <testcase classname="Scenario: Login as a authenticated user" name="Then Account is Logged in" time="0"/>
+  <testcase classname="Scenario: Login as a authenticated user" name="Scenario: Login as a authenticated user" time="0.004"/>
+  <testcase classname="Scenario: Add Product to the cart" name="Given user is on Home Page" time="0"/>
+  <testcase classname="Scenario: Add Product to the cart" name="When user navigates to required product" time="0.001"/>
+  <testcase classname="Scenario: Add Product to the cart" name="And user Click on the required product" time="0"/>
+  <testcase classname="Scenario: Add Product to the cart" name="And user click on add to cart" time="0"/>
+  <testcase classname="Scenario: Add Product to the cart" name="And user navigate to shoppping cart and Checkout" time="0"/>
+  <testcase classname="Scenario: Add Product to the cart" name="And user clicks on Procced to checkout" time="0"/>
+  <testcase classname="Scenario: Add Product to the cart" name="Then Order summary page opens up" time="0"/>
+  <testcase classname="Scenario: Add Product to the cart" name="Scenario: Add Product to the cart" time="0.003"/>
+</testsuite>
